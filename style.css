@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #080808 0%, #030303 100%);
+    color: #ffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-group{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#see-all{
+    color: orange;
+    text-align: end;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
